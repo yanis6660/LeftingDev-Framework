@@ -24,5 +24,5 @@ $LeftingDev->EmulatePage();
 ```
 
 ## Licence
-[![CC0](https://upload.wikimedia.org/wikipedia/commons/f/f8/License_icon-mit-88x31-2.svg)](https://creativecommons.org/publicdomain/zero/1.0/)  
+[![CC0](https://upload.wikimedia.org/wikipedia/commons/f/f8/License_icon-mit-88x31-2.svg)](https://opensource.org/licenses/MIT)  
 LeftingDev-Framework create by [Yanis6660](https://www.yanis6660.fr) thank you for not removing my copyright.
