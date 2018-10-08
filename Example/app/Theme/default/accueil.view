@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Example LeftingDev</title>
+	<link rel="stylesheet" type="text/css" href="../bootstrap.css">
+</head>
+<body>
+	<?= getTheme('/include/contain', true, 'view'); ?>
+</body>
+</html>
