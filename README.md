@@ -18,7 +18,9 @@ require '../libs/LeftingDev/start-class.php';
 
 //Start Engine
 $LeftingDev = new LeftingDev();
+//$LeftingDev->start("dir page","dir theme", "page start");
 $LeftingDev->start("../app/Page/","../app/Theme/default", "/accueil");
+//Launch Page
 $LeftingDev->EmulatePage();
 
 ```
